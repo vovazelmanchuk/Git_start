@@ -1,3 +1,3 @@
 print('Hello')
 if 1 > 3:
-    print('yes')
+    print('no')
